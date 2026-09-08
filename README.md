@@ -7,6 +7,7 @@ MCP adoption is accelerating across engineering teams. Agents can read wikis, op
 > **Should this MCP server be allowed in our environment, and under what controls?**
 
 ---
+Maintained by [Vandana Verma Sehgal](https://github.com/vermava)
 
 ## What's in this repository
 
